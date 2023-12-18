@@ -7,7 +7,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 //테스트
-//테스트2
 public class Utils {
 	private static Scanner sc =  new Scanner(System.in);
 	private static String CUR_PATH = System.getProperty("user.dir")+"\\src\\"+new Utils().getClass().getPackageName()+"\\";
